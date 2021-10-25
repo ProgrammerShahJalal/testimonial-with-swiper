@@ -2,4 +2,6 @@
 
 # Live Site Link: https://slider-with-swiper.netlify.app/
 
-<img src="./slider-swiper.mp4">
+<video width="320" height="240" autoplay muted>
+  <source src="./slider-swiper.mp4" type="video/mp4">
+</video>
